@@ -29,12 +29,14 @@
 
 🧠 I enjoy diving into the world of cloud platforms, scalable data pipelines, and machine learning, and I’m always up for a good challenge involving data-driven decision making.
 
-🛠️ My expertise spans across SQL, Python, Spark, Hadoop, AWS, Azure, GCP, Snowflake, Databricks, Airflow, Power BI, and Tableau. I thrive at the intersection of software engineering, database management, and business intelligence.
+🛠️ My expertise spans across SQL, Python, Spark, Hadoop, AWS, Azure, GCP, Snowflake, Databricks, Airflow, Power BI, and Tableau. 
+I thrive at the intersection of data engineering and analytics, database management, and business intelligence.
 
 🌍 Crazy Fact: Embarked on an unforgettable East Coast road trip—15 states in just 15 days! It sparked my love for new places and made me open to relocating anywhere in the U.S. for work.
 
 📫 Reach me at arbazmd939@gmail.com, amohammad1049@sdsu.edu <h4> Connect with me on <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arbaz Mohammad" height="15" width="25" /> : <a href="https://www.linkedin.com/in/arbazmohammad/" color='blue'> Arbaz Mohammad </h4>
 
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1N3312X17PkjTXdvbA1bPbuavwuM6hNFC/view?usp=sharing)).
 
 ###
 
