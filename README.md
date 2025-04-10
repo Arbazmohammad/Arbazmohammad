@@ -106,9 +106,3 @@ I thrive at the intersection of data engineering and analytics, database managem
   <img width="12" />
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge" height="40" alt="salesforce logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
