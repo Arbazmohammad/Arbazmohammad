@@ -21,6 +21,8 @@
 
 # 💫 Get to Know Me:
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+
 🎓 I'm currently pursuing my Master’s in Big Data Analytics at San Diego State University and actively seeking full-time opportunities starting May 2025.
 
 🔍 I’m actively exploring opportunities in Data Engineering, Data Analytics and Data Science.
