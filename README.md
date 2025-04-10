@@ -5,6 +5,10 @@
 ###
 <br clear="both">
 <h1 align="center">Hi there, I'm Arbaz Mohammad</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+
+###
+
+<p align="center">Data Engineer & Analyst – 3+ Years of Experience Across Baniking, Finance, Retail, Healthcare & Gaming | Passionate About AI & Actively Exploring Data Science | Building Scalable, Impact-Driven Data Solutions with a Collaborative Mindset.</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/arbazmohammad/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
@@ -16,23 +20,29 @@
 
 ###
 
-<p align="center">Data Engineer & Analyst – 3+ Years of Experience Across Baniking, Finance, Retail, Healthcare & Gaming | Passionate About AI & Actively Exploring Data Science | Building Scalable, Impact-Driven Data Solutions with a Collaborative Mindset.</p>
+# 💫 Get to Know Me:
+
+🎓 I'm currently pursuing my Master’s in Big Data Analytics at San Diego State University and actively seeking full-time opportunities starting May 2025.
+
+🔍 I’m actively exploring opportunities in Data Engineering, Data Analytics and Data Science.
+
+🧠 I enjoy diving into the world of cloud platforms, scalable data pipelines, and machine learning, and I’m always up for a good challenge involving data-driven decision making.
+
+🛠️ My expertise spans across SQL, Python, Spark, Hadoop, AWS, Azure, GCP, Snowflake, Databricks, Airflow, Power BI, and Tableau. I thrive at the intersection of software engineering, database management, and business intelligence.
+
+🌍 Crazy Fact: Embarked on an unforgettable East Coast road trip—15 states in just 15 days! It sparked my love for new places and made me open to relocating anywhere in the U.S. for work.
+
+📫 Reach me at arbazmd939@gmail.com, amohammad1049@sdsu.edu <h4> Connect with me on <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arbaz Mohammad" height="15" width="25" /> : <a href="https://www.linkedin.com/in/arbazmohammad/" color='blue'> Arbaz Mohammad </h4>
+
 
 ###
 
-<p align="left">💫 Get to Know Me:</p>
-
-###
-
-<p align="left">🎓 I'm currently pursuing my Master’s in Big Data Analytics at San Diego State University and actively seeking full-time opportunities starting May 2025.<br>🔍 I’m actively exploring opportunities in Data Engineering, Data Analytics and Data Science.<br>🧠 I enjoy diving into the world of cloud platforms, scalable data pipelines, and machine learning, and I’m always up for a good challenge involving data-driven decision making.<br>🛠️ My expertise spans across SQL, Python, Spark, Hadoop, AWS, Azure, GCP, Snowflake, Databricks, Airflow, Power BI, and Tableau. I thrive at the intersection of software engineering, database management, and business intelligence.<br>🌍 Crazy Fact: Embarked on an unforgettable East Coast road trip—15 states in just 15 days!</p>
-
-###
 
 <h3 align="left"></h3>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+# 🛠 Language and tools</h3>
 
 ###
 
