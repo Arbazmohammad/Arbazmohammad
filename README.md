@@ -107,6 +107,15 @@ I thrive at the intersection of data engineering and analytics, database managem
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge" height="40" alt="salesforce logo"  />
 </div>
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Arbazmohammad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Arbazmohammad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbazmohammad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Arbazmohammad&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arbazmohammad/Arbazmohammad/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arbazmohammad/Arbazmohammad/output/github-snake.svg" />
