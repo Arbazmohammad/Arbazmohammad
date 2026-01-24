@@ -23,16 +23,24 @@
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
-🎓 I'm currently pursuing my Master’s in Big Data Analytics at San Diego State University and actively seeking full-time opportunities starting May 2025.
+👋 Hi there! I’m a Data Engineer with 3+ years of experience building scalable data pipelines and cloud-native solutions.
 
-🔍 I’m actively exploring opportunities in Data Engineering, Data Analytics and Data Science.
+💼 Currently working as a Data Engineer at TCS North America, partnering with Stellantis to deliver enterprise-grade data platforms, reporting, and analytics that drive business decisions.
 
-🧠 I enjoy diving into the world of cloud platforms, scalable data pipelines, and machine learning, and I’m always up for a good challenge involving data-driven decision making.
+🎓 I hold a Master’s in Big Data Analytics from San Diego State University, where I also worked as a Data Engineer – Research Assistant, building ETL pipelines and contributing to machine learning projects on large-scale healthcare data.
 
-🛠️ My expertise spans across SQL, Python, Spark, Hadoop, AWS, Azure, GCP, Snowflake, Databricks, Airflow, Power BI, and Tableau. 
-I thrive at the intersection of data engineering and analytics, database management, and business intelligence.
+🧠 I enjoy working with cloud platforms, scalable data pipelines, analytics, and ML-driven solutions, and I’m always excited by challenges that involve transforming complex data into actionable insights.
 
-🌍 Crazy Fact: Embarked on an unforgettable East Coast road trip—15 states in just 15 days! It sparked my love for new places and made me open to relocating anywhere in the U.S. for work.
+🛠️ Tech Stack:
+Python | SQL | Spark | Palantir Foundry | Airflow | Snowflake | DBT | AWS | Azure | GCP | Docker | Kubernetes | Power BI | Tableau | Informatica
+
+📚 Certifications:
+✅ Microsoft Certified: Fabric Data Engineer Associate
+✅ Snowflake SnowPro Core
+
+🌍 Fun fact: Completed an unforgettable East Coast road trip — 15 states in 15 days 🚗 — which fueled my love for travel and new experiences.
+
+Let’s build something impactful with data!
 
 📫 Reach me at arbazmd939@gmail.com, amohammad1049@sdsu.edu <h4> Connect with me on <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arbaz Mohammad" height="15" width="25" /> : <a href="https://www.linkedin.com/in/arbazmohammad/" color='blue'> Arbaz Mohammad </h4>
 
