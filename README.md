@@ -44,7 +44,7 @@ Let’s build something impactful with data!
 
 📫 Reach me at arbazmd939@gmail.com, amohammad1049@sdsu.edu <h4> Connect with me on <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arbaz Mohammad" height="15" width="25" /> : <a href="https://www.linkedin.com/in/arbazmohammad/" color='blue'> Arbaz Mohammad </h4>
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1YqBoE_KrN15-oCZooyqvGsI6K1xhGVof/view?usp=drive_link)).
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1YqBoE_KrN15-oCZooyqvGsI6K1xhGVof/view?usp=drive_link).
 
 ###
 
